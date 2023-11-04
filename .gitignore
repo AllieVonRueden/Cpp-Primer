@@ -1,9 +1,9 @@
-# Mac OS
+##Mac#OS
 .DS_Store
 
 # Compiled Object files
-*.slo
-*.lo
+ .slo
+!.lo
 *.o
 *.obj
 
@@ -35,3 +35,4 @@
 
 # vim
 *.swp
+ 
